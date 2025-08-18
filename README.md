@@ -8,7 +8,7 @@
 
 ## 🏢 Work
 
-Frontend development and browser extension technologies
+Web development and browser extension technologies
 
 ## 🎯 Side Projects
 
