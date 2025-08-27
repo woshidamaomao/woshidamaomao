@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Colin
 
-> 💻 **Web Developer** | 🚀 **Indie Hacker**
+> 💻 **Web Developer** 
 
 ## 🛠️ Tech Stack
 
