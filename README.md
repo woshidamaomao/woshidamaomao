@@ -12,7 +12,7 @@ Web development and browser extension technologies
 
 ## 🎯 Side Projects
 
-**[AI Exporter](https://saveai.net/)** - AI conversation export tool with 120k+ users
+**[AI Exporter](https://saveai.net/)** - AI conversation export tool with 180k+ users
 
 ## 💡 Interests
 
